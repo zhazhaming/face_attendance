@@ -1,0 +1,23 @@
+训练使用设备cpu
+训练集数量:23
+测试集数量:4
+1/20 Epoch ---> train_loss:16.25699234008789  train_accuracy:0.0  test_loss:11.589082717895508  test_accuracy:0.0
+2/20 Epoch ---> train_loss:8.353684425354004  train_accuracy:0.21739129722118378  test_loss:6.378272533416748  test_accuracy:0.75
+3/20 Epoch ---> train_loss:2.5649759769439697  train_accuracy:0.8695651888847351  test_loss:0.221375972032547  test_accuracy:1.0
+4/20 Epoch ---> train_loss:2.082824945449829  train_accuracy:0.8695651888847351  test_loss:0.13339781761169434  test_accuracy:1.0
+5/20 Epoch ---> train_loss:0.13600601255893707  train_accuracy:1.0  test_loss:0.10591443628072739  test_accuracy:1.0
+6/20 Epoch ---> train_loss:0.10907290130853653  train_accuracy:1.0  test_loss:0.08756566047668457  test_accuracy:1.0
+7/20 Epoch ---> train_loss:0.08691111207008362  train_accuracy:1.0  test_loss:0.07216297090053558  test_accuracy:1.0
+8/20 Epoch ---> train_loss:1.587357521057129  train_accuracy:0.95652174949646  test_loss:0.08850222826004028  test_accuracy:1.0
+9/20 Epoch ---> train_loss:0.060766153037548065  train_accuracy:1.0  test_loss:0.10298284888267517  test_accuracy:1.0
+10/20 Epoch ---> train_loss:0.05147495120763779  train_accuracy:1.0  test_loss:0.10866259783506393  test_accuracy:1.0
+11/20 Epoch ---> train_loss:0.046068716794252396  train_accuracy:1.0  test_loss:0.10408143699169159  test_accuracy:1.0
+12/20 Epoch ---> train_loss:0.03682103008031845  train_accuracy:1.0  test_loss:0.09379357844591141  test_accuracy:1.0
+13/20 Epoch ---> train_loss:0.03222447261214256  train_accuracy:1.0  test_loss:0.08057596534490585  test_accuracy:1.0
+14/20 Epoch ---> train_loss:0.023194510489702225  train_accuracy:1.0  test_loss:0.06807046383619308  test_accuracy:1.0
+15/20 Epoch ---> train_loss:0.020774707198143005  train_accuracy:1.0  test_loss:0.05735030770301819  test_accuracy:1.0
+16/20 Epoch ---> train_loss:0.017949197441339493  train_accuracy:1.0  test_loss:0.04827810823917389  test_accuracy:1.0
+17/20 Epoch ---> train_loss:0.01681656576693058  train_accuracy:1.0  test_loss:0.040304966270923615  test_accuracy:1.0
+18/20 Epoch ---> train_loss:0.014760405756533146  train_accuracy:1.0  test_loss:0.03373633325099945  test_accuracy:1.0
+19/20 Epoch ---> train_loss:0.014440692029893398  train_accuracy:1.0  test_loss:0.02747810259461403  test_accuracy:1.0
+20/20 Epoch ---> train_loss:0.012380053289234638  train_accuracy:1.0  test_loss:0.022699084132909775  test_accuracy:1.0

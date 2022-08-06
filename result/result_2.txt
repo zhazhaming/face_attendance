@@ -1,0 +1,13 @@
+训练使用设备cpu
+训练集数量:23
+测试集数量:4
+1/10 Epoch ---> train_loss:15.668194770812988  train_accuracy:0.0  test_loss:12.594063758850098  test_accuracy:0.0
+2/10 Epoch ---> train_loss:8.859587669372559  train_accuracy:0.260869562625885  test_loss:0.8560819625854492  test_accuracy:1.0
+3/10 Epoch ---> train_loss:2.167997360229492  train_accuracy:0.95652174949646  test_loss:3.900250196456909  test_accuracy:0.75
+4/10 Epoch ---> train_loss:4.3281683921813965  train_accuracy:0.8695651888847351  test_loss:2.5950098037719727  test_accuracy:0.75
+5/10 Epoch ---> train_loss:0.19057554006576538  train_accuracy:1.0  test_loss:3.743633270263672  test_accuracy:0.75
+6/10 Epoch ---> train_loss:0.31716227531433105  train_accuracy:1.0  test_loss:0.6194680333137512  test_accuracy:1.0
+7/10 Epoch ---> train_loss:0.4938516914844513  train_accuracy:0.95652174949646  test_loss:0.017293933779001236  test_accuracy:1.0
+8/10 Epoch ---> train_loss:0.03842960298061371  train_accuracy:1.0  test_loss:0.009362997487187386  test_accuracy:1.0
+9/10 Epoch ---> train_loss:0.5248031616210938  train_accuracy:0.95652174949646  test_loss:0.0064909616485238075  test_accuracy:1.0
+10/10 Epoch ---> train_loss:0.5558954477310181  train_accuracy:0.95652174949646  test_loss:0.005263311322778463  test_accuracy:1.0
